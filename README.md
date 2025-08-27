@@ -7,9 +7,9 @@
 
 ## Core Focus
 
-- **Knowledge Hub** — hosts courseware (Artixnature), educational AI systems (ShikshyaAI), reasoning engines (ReasonNet), and global contribution tools (ShikshyaSource).  
+- **Knowledge Hub** — hosts courseware (Artixnature), educational AI systems (Shikshya), reasoning engines (reasonnet.ai), and global contribution tools (ShikshyaSource).  
 - **AI Innovation Platform** — develops, fine-tunes, and integrates models, datasets, and pipelines into real-world applications.  
-- **Healthcare Gateway** — powers Illumedicus AI, a multimodal clinical decision support system.  
+- **Healthcare Gateway** — powers illumedicus.ai, a multimodal clinical decision support system.  
 - **Modular Infrastructure** — each project can run independently while connecting through shared architecture (data pipelines, security layers, scalable compute).  
 
 ---
